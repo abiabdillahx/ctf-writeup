@@ -8,7 +8,21 @@ Cryptography
 Cryptography can be easy, do you know what ROT13 is? </br>
 `cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}`
 
-## Solution
-Pada challenge ini, jelas dikatakan tentang ROT13, terlebih lagi, nama challenge ini juga **"13"**. Kalian perlu mengetahui bahwa ada suatu sistem enkripsi yang bernama **__ROT13__**. Enkripsi ini memungkinkan seseorang merotasi huruf abjad dengan menggeser huruf sebanyak 13 kali ke kanan.
+## Theory
+Pada challenge ini, jelas dikatakan tentang ROT13, terlebih lagi, nama challenge ini juga **"13"**. Kalian perlu mengetahui bahwa ada suatu sistem enkripsi yang bernama **__ROT13__**. Enkripsi ini memungkinkan seseorang merotasi huruf abjad dengan menggeser huruf sebanyak 13 kali ke kanan. </br></br>
 ![ROT13](ROT13.png)
 
+## Solution
+Setelah teori di atas, kita dapat membuka enkripsi dari `cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}` dengan menggunakan tools yang tersedia di internet, yakni **[ROT13 Decode](rot13.com)**. Kita tinggal menempelkan string tak beraturan tadi kedalamnya. </br></br>
+![Decrypted](rot13.com.png)
+</br>
+Boom! kita mendapatkan flag yang dibutuhkan!!. Yuhuuu
+
+## Flag
+<details>
+  <summary>Ini flag-nya</summary></br>
+  
+  ```
+  picoCTF{not_too_bad_of_a_problem}
+  ```
+</details>
