@@ -26,3 +26,6 @@ Boom! kita mendapatkan flag yang dibutuhkan!!. Yuhuuu
   picoCTF{not_too_bad_of_a_problem}
   ```
 </details>
+
+</br></br>
+<p>&copy abiabdillahx</p>
