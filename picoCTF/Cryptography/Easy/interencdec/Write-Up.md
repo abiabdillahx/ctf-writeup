@@ -38,5 +38,8 @@ Setelah itu, masukkan kode yang ada di file tadi.
   ```
 </details>
 
+</br></br>
+<p>&copy abiabdillahx</p>
+
 
 
