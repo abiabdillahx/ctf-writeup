@@ -7,7 +7,7 @@ Download the file [here.](https://artifacts.picoctf.net/c_titan/108/enc_flag)
 
 ## Solution
 1. Setelah kita mengunduh file yang diberikan, kita dapat membukanya dengan **Notepad** biasa. Akan terlihat kode seperti ini. </br></br>
-![enc_file](Notepad.png)
+![enc_file](img/Notepad.png)
 </br>
 
 2. Dari yang terlihat, kode ini dienkripsi menggunakan enksripsi **Base64**. Langsung saja kita gunakan tool **Base64 Decoder** dari website [cryptii](https://cryptii.com/pipes/text-to-base64).
