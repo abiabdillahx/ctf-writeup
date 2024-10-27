@@ -34,3 +34,4 @@ Selanjutnya, kita submit `thenumbersmason` ke dalam format flag.
     picoCTF{thenumbersmason}
   ```
 </details>
+<p>&copy abiabdillahx</p>
