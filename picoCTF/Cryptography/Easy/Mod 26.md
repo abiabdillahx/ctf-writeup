@@ -6,7 +6,7 @@ Cryptography can be easy, do you know what ROT13 is? </br> ```cvpbPGS{arkg_gvzr_
 
 ## Solution
 Pada challenge ini, kita diberikan clue dari deskripsi di atas, yaitu **ROT13**. Seperti yang kita ketahui, **ROT13** adalah sistem enkripsi sederhana yang memungkinkan kita mendapatkan kode dengan memutar huruf abjad dan menggesernya sebanyak 13 kali ke kanan. </br>
-![ROT13](../img/ROT13.png)
+![ROT13](./img/ROT13.png)
 
 Maka dari itu, kode ini dapat langsung kita terjemahkan dengan [tool decoder ROT13](https://rot13.com). Tinggal masukkan kode yang ada.
 ![image](https://github.com/user-attachments/assets/33c7f043-d877-4ccf-bb5a-80c644a03dad)
