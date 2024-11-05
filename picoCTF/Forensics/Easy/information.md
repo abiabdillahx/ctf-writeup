@@ -15,7 +15,25 @@ Setelah berpikir sebentar, sepertinya flag dari challenge ini ada di dalam _meta
 Langsung saja kita gunakan **exif tools** yang ada di internet. Disini, saya menggunakan [exif.tools](https://exif.tools). Kita upload file gambar yang telah kita download tadi.
 ![image](https://github.com/user-attachments/assets/8563e775-56c9-46ca-b77d-52c3a504552a)</br>
 
-Nah, kita 
+Nah, setelah di-upload, langsung saja kita lihat rincian **metadata** yang ada pada file **cat.jpg**. 
 ![image](https://github.com/user-attachments/assets/ddfa3cdc-6bf8-4602-909a-7c5f12ef93bd)
+</br>
+
+Sepertinya, terdapat sebuah string di bagian "license" yang dienkripsi dengan sistem **Base64**. Saya coba decrypt dengan command line di bawah.
+![image](https://github.com/user-attachments/assets/ad9cb4ec-ecff-4f39-8f9f-fb5fa8b60fd2)
+
+</br>
+Yeahhh!! kita dapat flagnya
+
+## Flag
+<details>
+  <summary>Ini Flag-nya pak</summary>
+  
+  ```
+  picoCTF{the_m3tadata_1s_modified}
+  ```
+</details>
+
+<p>&copy abiabdillahx</p>
 
 
