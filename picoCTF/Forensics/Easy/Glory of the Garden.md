@@ -6,3 +6,4 @@ This [garden](https://jupiter.challenges.picoctf.org/static/4153422e18d40363e7ff
 
 ## Solution
 Setelah kita unduh file gambar dengan nama **garden.jpg**, saya langsung mencoba cek di exiftool
+
