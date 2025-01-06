@@ -64,6 +64,8 @@ So, **Shirube** is the answer
 flag : irisctf{Shirube}
 ```
 
-Support me by buy me a [coffee](https://ko-fi.com/abiabdillah) or click this <br>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.ko-fi.com/abiabdillah)
+Support me by buy me a [coffee](https://ko-fi.com/abiabdillah) or click this </br>
+<a href="https://ko-fi.com/abiabdillah" style="text-align: center;"><img align="center" width="150" alt="support_me_on_kofi_blue" src="https://github.com/user-attachments/assets/c0fa4650-315c-4a4a-b1e3-76131e9eb8b8" /></a>
+
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.ko-fi.com/abiabdillah) -->
 
