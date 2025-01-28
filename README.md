@@ -1,6 +1,7 @@
 # My ctf writeups
-Write Up for every CTF that i play over years
-for Web interface, u can check this out [HERE](https://zencipher.gitbook.io/home)
+Write Up for every CTF that i play over years.
+
+Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbook.io/home)
 
 # Contents
 ## International
