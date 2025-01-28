@@ -4,7 +4,15 @@ Write Up for every CTF that i play over years.
 Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbook.io/home)
 
 # Contents
-## International
+## National
+| Year | No | Competition | Challenges | Writeup |
+| ---- | -- | ----------- | ---------- | ------- |
+| 2024 | 1 | CodEx CTF POROS x BCC UB | 3 | [here](CodEx%202024/README.md)
+|      | 2 | COSMOS POROS UB | x | [here](COSMOS%202024/README.md)
+|      | 3 | HOLOGY 7.0 UB | x | [here](HOLOGY%207.0)
+
+
+
 
 ### Support me here
 ```
