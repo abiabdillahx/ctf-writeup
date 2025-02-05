@@ -7,14 +7,16 @@ Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbo
 ## National
 | Year | No | Competition | Challenges | Writeup |
 | ---- | -- | ----------- | ---------- | ------- |
-| 2024 | 1 | CodEx CTF POROS x BCC UB | 3 | [Here](CodEx%202024/README.md)
-|      | 2 | COSMOS POROS UB | x | [Here](COSMOS%202024/README.md)
-|      | 3 | HOLOGY 7.0 UB | x | [Here](HOLOGY%2H7.0)
+| 2024 | 1 | CodEx CTF POROS x BCC UB | 3 | [Here](National/CodEx%202024/README.md)
+|      | 2 | COSMOS POROS UB | x | [Here](National/COSMOS%20UB%202024/README.md)
+|      | 3 | HOLOGY 7.0 UB | x | [Here](National/HOLOGY%2H7.0)
 
 ## International
 | Year | No | Competition | Challenges | Writeup |
 | ---- | -- | ----------- | ---------- | ------- |
-| 2024 | 1 | THJCC CTF Winter 2024 | 3 | [Here](International/)
+| 2024 | 1 | THJCC CTF Winter 2024 | 3 | [Here](International/THJCC%20CTF%202024%20Winter/README.md)
+| 2025 | 2 | IrisCTF 2025 | 3 | [Here](International/IrisCTF%202025/README.md)
+
 
 
 
