@@ -25,10 +25,15 @@ Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbo
 ## PicoCTF
 | Category | No | Challenge Name | Level | Writeup |
 | ---- | -- | ----------- | ---------- | ------- |
-| **Crypto** | 1 | 13 | **Easy** | [Here](/picoCTF/Cryptography/Easy/13.md)
-| **Crypto** | 1 | Mod 26 | **Easy** | [Here](/picoCTF/Cryptography/Easy/Mod%2026.md)
-| **Crypto** | 1 | The Numbers | **Easy** | [Here](/picoCTF/Cryptography/Easy/The%20Numbers.md)
-| **Crypto** | 1 | interencdec | **Easy** | [Here](/picoCTF/Cryptography/Easy/interencdec.md)
+| **Crypto** | 1 | 13 | **Easy** | [Here](/picoCTF/Cryptography/Easy/13.md) |
+| **Crypto** | 2 | Mod 26 | **Easy** | [Here](/picoCTF/Cryptography/Easy/Mod%2026.md)
+| **Crypto** | 3 | The Numbers | **Easy** | [Here](/picoCTF/Cryptography/Easy/The%20Numbers.md)
+| **Crypto** | 4 | interencdec | **Easy** | [Here](/picoCTF/Cryptography/Easy/interencdec.md)
+|-|-|-|-|-
+| **Forensic** | 1 | CanYouSee | **Easy** | [Here](/picoCTF/Forensic/Easy/CanYouSee.md)
+| **Forensic** | 1 | Glory of the Garden | **Easy** | [Here](/picoCTF/Forensic/Easy/Glory%20of%20the%20Garden.md)
+| **Forensic** | 1 | Scan Surprise | **Easy** | [Here](/picoCTF/Forensic/Easy/Scan%20Surprise.md)
+| **Forensic** | 1 | information | **Easy** | [Here](/picoCTF/Forensic/Easy/information.md)
 
 
 
