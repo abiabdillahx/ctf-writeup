@@ -7,7 +7,7 @@ Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbo
 | Year | No | Competition | Challenges Solved | Writeup |
 | ---- | -- | ----------- | ---------- | ------- |
 | 2024 | 1 | CodEx CTF POROS x BCC UB | 3 | [Here](Internal/CodEx%202024/README.md)
-|      | 2 | COSMOS POROS UB | x | [Here](Internal/COSMOS%20UB%202024/README.md)
+|      | 2 | COSMOS POROS UB | 8 | [Here](Internal/COSMOS%20UB%202024/README.md)
 | 2025 | 3 | Freepass POROS UB 2025 | x | [Here](/Internal/Freepass%20POROS/README.md)
 
 ## National
