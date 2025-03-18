@@ -7,11 +7,15 @@ Download the image: [red.png](https://challenge-files.picoctf.net/c_verbal_sleep
 
 ## Solution
 Okay, i got an image. So what i did first is check the metadata of this image using `exiftool` command. We can see here, there is "Poem" down there. If the first letter of the sentences combined, we will get a hint. **CHECK THE LSB.**
-[gambar ss]
+
+![Screenshot 2025-03-19 044542](https://github.com/user-attachments/assets/ce606a16-20b6-43e4-ab38-e6d06b424fe2)
+
 
 So, if it is an LSB steganography method, i used `zsteg` command to check it. After that, i got a **Base64 encoded** message. And if we decode it, we will get the flag. 
-[gambar ss]
 
+![Screenshot 2025-03-19 044557](https://github.com/user-attachments/assets/b140097b-ab1d-48c1-845f-590f8f16d1b9)
+
+Here's the flag
 
 ## Flag
 <details>
