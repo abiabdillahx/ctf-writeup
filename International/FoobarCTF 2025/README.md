@@ -1,5 +1,6 @@
 # FoobarCTF 2025
 CTFTime : https://ctftime.org/event/2720
+
 Date : 	22 March, 13:30 UTC+7 — 23 March 2025, 13:30 UTC+7
 
 > [!NOTE]
