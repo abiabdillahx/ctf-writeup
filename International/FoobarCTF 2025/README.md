@@ -4,7 +4,7 @@ CTFTime : https://ctftime.org/event/2720
 Date : 	22 March, 13:30 UTC+7 — 23 March 2025, 13:30 UTC+7
 
 > [!NOTE]
-> Capturing the flag solo by **_zenCipher_** usn
+> Capturing the flag solo as **_zenCipher_** 
 
 <details>
     <summary><b>Table of contents</b></summary>

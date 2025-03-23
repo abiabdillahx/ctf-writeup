@@ -96,5 +96,11 @@ THJCC{tmp_1n_🐍_01b4c87cabcca82b}
 ```
 
 
-[Support me by buy me a coffee](https://ko-fi.com/abiabdillah)
 
+
+========================================================
+
+
+Thanks for read this writeup. If u wanna support me, buy me a coffee [here](https://ko-fi.com/abiabdillah) or click button below
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abiabdillah) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abiabdillah)
