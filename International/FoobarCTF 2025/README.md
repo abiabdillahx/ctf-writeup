@@ -44,7 +44,8 @@ So, i use a tool that can help me to solve the problem. I used [CyberChef](https
 4. ROT13 of "LINUX" = "YVAHK"
 4. Hexadec representation of "OPEN_SOURCE" = 4f50454e5f534f55524345
 
-[gambar ss]
+![Screenshot 2025-03-22 212255](https://github.com/user-attachments/assets/a4f346cb-8b40-45af-b1f1-aac781125293)
+
 
 Boom!, i got the flag!
 **Flag:**
@@ -63,12 +64,13 @@ GLUG{Crypto_Transformation_Master}
 **Attachment** : [hearme.jpg](./files/hearme.jpg)
 
 ### Solve
-Ok, let's try to see if this jpg fil ehas steganography in it. It will be extracted to a text file that has a link to google drive
-[gambar ss]
+Ok, let's try to see if this jpg file has steganography in it. It will be extracted to a text file that has a link to google drive
+
+![image](https://github.com/user-attachments/assets/c801d906-6dfc-4a15-8aa3-95eb06837a18)
 
 After that, just download the file. It's an audio file and sounds like write a spectrogram there. So, i open it with [**audacity**](https://audacityteam.org/) and change view mode to spectrogram. Wow, it has a less readable text there. It's look like Base64 encoded text, just decode it and you will get the flag!
-[gambar ss]
 
+![Screenshot 2025-03-23 153757](https://github.com/user-attachments/assets/50dc0985-f9fa-4c0a-aec3-6bd28bea56d1)
 
 **Flag:**
 ```flag
@@ -175,16 +177,17 @@ GLUG{Bm9_R8VreVers3}
 
 ### Solve
 This is the first look of the web's chall.
-[gambar ss]
+
+![Screenshot 2025-03-23 144330](https://github.com/user-attachments/assets/417bff96-bfc5-4ede-9b04-a3124da4e364)
 
 There is an login form. So, what i did firstly is try to log in with random username and password. It gives me a **JWT Token** under it. Hmm, interesting. Try to decode the JWT token with [JWT.io](https://jwt.io/). Just paste my token and it said that the value of "admin" attribute is _false_. 
-[gambar ss]
+Ok. i changed the 'admin' value to _true_, and then copy the new encoded JWT token. Back to the website, then open inspect element or dev mode ("**Ctrl+Shift+I**"). Damn, there is a commented out code in the login form. It seems like a button that will put admin data there.
 
-Ok. i chamged the 'admin' value to _true_, and then copy the new encoded JWT token. Back to the website, then open inspect element or dev mode ("**Ctrl+Shift+I**"). Damn, there is a commented out code in the login form. It seems like a button that will put admin data there.
-[gambar ss]
+![Screenshot 2025-03-23 145107](https://github.com/user-attachments/assets/39a4f543-c41c-43a6-aea2-d9cf86130738)
 
 After that, i try to input my new JWT token by removing "readonly" attribute from the input field. Then, i click the button. And... i got the flag.
-[gambar ss]
+
+![Screenshot 2025-03-22 155135](https://github.com/user-attachments/assets/7be52666-c237-49f8-a694-65f38b6b1337)
 
 
 **Flag:**
