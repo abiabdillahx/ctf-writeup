@@ -34,8 +34,8 @@ __import__('os').system('cat flag.txt')
 ```
 
 Boom!, I got the flag
-[gambar ss]
 
+![Screenshot 2025-03-24 045242](https://github.com/user-attachments/assets/9c1d82d0-4596-4da8-8afb-f7dcbca83293)
 
 **Flag :**
 ```flag
@@ -56,9 +56,10 @@ keepass2john Database.kdbx > sec.hash
 john --wordlist=/usr/share/wordlists/rockyou.txt sec.hash
 john --show sec.hash
 ```
-[gambarss]
 
+![Screenshot 2025-03-24 005953](https://github.com/user-attachments/assets/eec3f2c2-1e6d-4e94-8e30-e27889f5b5f5)
 
+    
 Just explore the database and right click on the mouse to copy the password (don't forget to paste it immediately because it will be cleared after that). After i explored it, i got the real flag in "**Homebanking**" password.
 Yohoooo!
 
@@ -75,11 +76,12 @@ wctf{1_th0ught_1t_w4s_s3cur3?}
 
 ### Solve
 After analyze the image, I found a hidden file inside the image. I used steghide to extract it. It will extracted a **ch8** file. Ok, actually i have no idea what kind of file it is.
-[gambar ss]
+
+![Screenshot 2025-03-24 001534](https://github.com/user-attachments/assets/d18bac0b-c43d-49c1-bc6d-05a099668650)
 
 After minutes of searching for references, i finally knew that it's a Chip-8 ROM file that built for simple game emulator. I just found about web that can run it, [Octo](https://johnearnest.github.io/Octo/). Click 'Open' to open the breakout.ch8 file then run it. Yea, u have to win to get the flag.
-[gambar ss]
 
+![Screenshot 2025-03-22 122440](https://github.com/user-attachments/assets/924fc7e1-ea19-4c9a-8adc-87ad3569ce47)
 
 **Flag :**
 ```flag
@@ -102,9 +104,33 @@ So, i have a js server code written in **express.js**. Let's analyze it! When i 
 - If i access the web without any username, it'll shows "Hello Guest"
 - If i access it with "**?username**=" parameter, it'll shows "Hello *username*"
 - If server get any error, it will open flag.txt file
-[gambar ss]
+
+
+```js
+const express = require('express')
+
+const app = express()
+const port = 8000
+
+app.get('/', (req, res) => {
+    try {
+        const username = req.query.username || 'Guest'
+        const output = 'Hello ' + username
+        res.send(output)
+    }
+    catch (error) {
+        res.sendFile(__dirname + '/flag.txt')
+    }
+})
+
+app.listen(port, () => {
+    console.log(`Server is running at http://localhost:${port}`)
+})
+```
 
 Ok then. I have to bypass the ?username parameter and make an error. Just try add this `?username[toString]=null` to the url and it'll shows the flag.txt file. 
+
+![Screenshot 2025-03-22 121152](https://github.com/user-attachments/assets/2cc94d22-20f3-4634-84bc-0ea7c61a4df3)
 
 > [!TIP]
 > WHy is this happen?
