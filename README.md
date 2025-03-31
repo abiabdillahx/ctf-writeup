@@ -22,6 +22,8 @@ Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbo
 | 2025 | 2 | IrisCTF 2025 | 5 | [Here](International/IrisCTF%202025/README.md)
 | 2025 | 3 | UofT CTF 2025 | 3 | [Here](International/UofT%20CTF%202025/README.md)
 
+
+<!--
 ## PicoCTF
 | Category | No | Challenge Name | Level | Writeup |
 | ---- | -- | ----------- | ---------- | ------- |
@@ -33,7 +35,7 @@ Wanna read in a better web?, u can check this out [HERE](https://zencipher.gitbo
 | **Forensic** | 1 | CanYouSee | **Easy** | [Here](/picoCTF/Forensic/Easy/CanYouSee.md)
 | **Forensic** | 1 | Glory of the Garden | **Easy** | [Here](/picoCTF/Forensic/Easy/Glory%20of%20the%20Garden.md)
 | **Forensic** | 1 | Scan Surprise | **Easy** | [Here](/picoCTF/Forensic/Easy/Scan%20Surprise.md)
-| **Forensic** | 1 | information | **Easy** | [Here](/picoCTF/Forensic/Easy/information.md)
+| **Forensic** | 1 | information | **Easy** | [Here](/picoCTF/Forensic/Easy/information.md)-->
 
 
 
