@@ -1,0 +1,16 @@
+# Ignore folder konfigurasi Obsidian
+.obsidian/
+
+# Ignore file backup atau temporary
+*.log
+*.tmp
+
+# Ignore folder hasil build (misal buat project JS/PHP)
+dist/
+build/
+node_modules/
+
+# Ignore file pribadi
+secret.txt
+.env
+
