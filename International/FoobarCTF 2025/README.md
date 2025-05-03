@@ -27,7 +27,7 @@ Date : 	22 March, 13:30 UTC+7 — 23 March 2025, 13:30 UTC+7
 >To prove your cryptographic prowess, you must correctly apply the some transformations.
 >
 >Can you crack the code and claim the ultimate reward?
-``nc chall.foobarctf.nitdgplug.org 31337``
+`nc chall.foobarctf.nitdgplug.org 31337`
 
 **Hint :**
 > - Some transformations can be reversed, others cannot. Choose your methods wisely.

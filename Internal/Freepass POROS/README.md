@@ -17,4 +17,4 @@ Category : Web, Forensic, Crypto
 | **Crypto** | EliteCodeCipher | ECC encryption |
 |          | Open the noor | Padding Oracle Attack |
 
-WU : [Freepass POROS 2025 Writeup](Freepass%20POROS%20Security%20-%20zenCipher%20-%20Muhammad%20Abi%20Abdillah.pdf)
+WU : [Freepass POROS 2025 Writeup](./Freepass%20POROS%20Security%20-%20zenCipher%20-%20Muhammad%20Abi%20Abdillah.pdf)
